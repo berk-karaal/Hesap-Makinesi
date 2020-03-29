@@ -1,3 +1,7 @@
 # Hesap-Makinesi
-Java swing ile yapılmış hesap makinesi uygulaması,
-Uygulamayı çalıştırmak için run.bat dosyasını çalıştırınız.
+
+Java Swing ile yaptığım basit bir hesap makinesi uygulaması.
+
+jar dosyası açılmaz ise _.bat_ dosyasını açın.
+
+[Uygulama fotoğrafı](hesap.jpg)
